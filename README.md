@@ -11,3 +11,5 @@ The main objective of the project is to identify and analyze key factors influen
 - Software Engineer at Cognizant based in California with High-Income wage is likely to get their H- 1B approved.
 - Analyst at NTT Data based in Alabama with Low-income wage is unlikely to get their H-1B visa approved
 
+### Dataset
+https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub
